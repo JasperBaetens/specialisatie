@@ -12,7 +12,7 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 - **Maarten Marreel** - [**Drupal**](https://github.com/MrMM1989/webspecialisatie)
 - **William Blommaert** - [**D3.js**](https://github.com/Will0489/data-visualisation)
 - **Maico Paulussen** - [**Drupal**](https://github.com/maicoP/web-specialisatie.git)
-- **Jasper Baetens** - [**css animatie**](https://github.com/JasperBaetens/css-Animatie)
+- **Jasper Baetens** - [**Drupal**](https://github.com/JasperBaetens/webspecialisatie)
 - **Marinus Eekman** - [**API Instagram**](https://github.com/forenzer/specialisatie)
 - **Matthias De Winter** [**Responsive Typography**](https://github.com/MatthiasDeWinter/ResponsiveTypography)
 - **Ferre Lambert** - [**Drupal**](https://github.com/Ferrrrrre/SpecialisatieDrupal)
